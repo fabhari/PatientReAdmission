@@ -1,6 +1,4 @@
 # PatientReAdmission
-
-CO3093/CO7093 - Big Data & Predictive Analytics
 CW Assignment
 Classification & Clustering
 Assessment Information
@@ -131,7 +129,3 @@ with no clustering, and a written report describing some of the work done.
 most cases.
  None-submission: A mark of 0 will be awarded.
 Marking Group Work
-Normally, a group will be given the same mark unless some members made little or no 
-contributions. Any group can be called for an interview during marking. All group members must
-attend, explain their contributions, and defend the work submitted.
-Last Updated 27 February 2022 by Emmanuel Tadjouddine
