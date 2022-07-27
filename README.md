@@ -1,6 +1,4 @@
 # PatientReAdmission
-
-For this assignment, you need to submit the followings:
 1. A short report (about 8 pages in pdf including all the graphs) on your findings in 
 exploring the given dataset, a description of your model and its evaluation, a 
 description of your clusters and its justification, as well as your recommendations (any 
@@ -103,17 +101,4 @@ a classification model of high performance and a well-structured, maintainable, 
 robust code usefully using functions.  First (≥ 70 marks): As in Second Upper plus a well-justified predictive model
 by the data cleansing with sound evaluation techniques; a well-justified clusters
 and a concise report containing any decisions that may be recommended.
- Second Upper (60 to 69 marks): A good coverage of data cleansing techniques 
-exploring the dataset, a good visualisation of the clusters, a predictive model with 
-an appreciable accuracy with a rationale behind it, a working code and a well￾structured report on the results obtained from the dataset.
-UoL, CO3093/CO7093 5  Second Lower (50 to 59 marks): Some techniques used for data cleansing are 
-overlooked, a predictive model partially justified with an appreciable accuracy, a 
-working clustering, a partially commented code with very few functions, and a 
-narrative of the findings about the dataset with few deficiencies.
- Third (40 to 49 marks): Essential data cleansing techniques are covered, a 
-predictive model is given with some justification, a working but basic block code
-with no clustering, and a written report describing some of the work done.
- Fail (≤ 39 marks): Not satisfy the pass criteria and will still get some marks in 
-most cases.
- None-submission: A mark of 0 will be awarded.
-Marking Group Work
+
