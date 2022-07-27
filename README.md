@@ -1,17 +1,5 @@
 # PatientReAdmission
-CW Assignment
-Classification & Clustering
-Assessment Information
-Assessment Number 2
-Contribution to overall mark 70%
-Submission Deadline Thursday 24/03/2022 at 6:00 pm
-Assessed Learning Outcomes
-This second assessment aims at testing your ability to
-- carry out data cleansing and visualization 
-- develop a classifier and evaluate its performance 
-- perform appropriate and justified clustering of the data
-- communicate your findings on the data
-How to submit
+
 For this assignment, you need to submit the followings:
 1. A short report (about 8 pages in pdf including all the graphs) on your findings in 
 exploring the given dataset, a description of your model and its evaluation, a 
